@@ -4,13 +4,19 @@ E-commerce sales performance is influenced by multiple factors, including produc
 
 This project aims to conduct a detailed sales performance analysis to identify the key drivers of profitability across product categories, regions, and time periods, and to provide actionable business insights based on the findings.
 
+An interactive Tableau dashboard used to report can be found [here](https://public.tableau.com/app/profile/faqih.elwidad/viz/E-commerceSalesAnalysis_17646472703710/Dashboard1#1).
+
 # Data Structure & Initial Checks
 
 The dataset consists of a single transactional table containing order-level, product, customer, pricing, and regional information. Initial checks were conducted to ensure data completeness, consistency, and suitability for analysis.
 
+![ERD](ERD.png)
+
 # Executive Summary
 
 This analysis evaluates e-commerce sales performance across categories, regions, and seasonal trends. The results show that Electronics consistently delivers the highest revenue and profit margins, while sales peak in December due to increased order volume and discount activity. Regionally, the South emerges as the strongest contributor, driven by the highest number of orders.
+
+![Dashboard](DASHBOARD.png)
 
 # Insights Deep Dive
 
@@ -22,6 +28,8 @@ This analysis evaluates e-commerce sales performance across categories, regions,
 
 - Sales tend to decline at the beginning of the year, indicating a strong seasonal demand pattern.
 
+![Trend](TREND.png)
+
 ### Product Category Performance
 
 - Electronics is the highest-performing category in terms of both revenue and profit margin.
@@ -29,6 +37,8 @@ This analysis evaluates e-commerce sales performance across categories, regions,
 - Higher average prices and strong customer demand contribute to the profitability of the Electronics category.
 
 - Groceries represent the lowest-performing category, indicating potential issues in pricing, margins, or demand.
+
+
 
 ### Regional Performance
 
