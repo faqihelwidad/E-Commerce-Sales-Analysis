@@ -38,7 +38,7 @@ This analysis evaluates e-commerce sales performance across categories, regions,
 
 - Groceries represent the lowest-performing category, indicating potential issues in pricing, margins, or demand.
 
-
+![Category](CATEGORY.png)
 
 ### Regional Performance
 
@@ -47,6 +47,8 @@ This analysis evaluates e-commerce sales performance across categories, regions,
 - Strong regional performance is driven primarily by the highest number of customer orders.
 
 - The Central region underperforms compared to other regions and requires further evaluation.
+
+![Region](REGION.png)
 
 # Recommendations
 
